@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +31,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.form-group{
+  background-color: lightgray;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.form-control{
+  width: 100%;
+}
+
+#confirm {
+  padding-right: 2%;
 }
